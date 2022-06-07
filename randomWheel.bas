@@ -22,7 +22,7 @@ Sub archiveruns()
     archiveTotal = 1
     
     'Directory where ArchiveResults.csv is stored.
-    archiveDir = "C:\Users\rkeith\Documents\"
+        archiveDir = "C:\path\to\directory\"
     
     '----------------------
     
