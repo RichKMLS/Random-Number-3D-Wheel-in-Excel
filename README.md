@@ -6,9 +6,9 @@ Used to demonstrate how VBA can be integrated with 3D shapes to deliver smooth a
 ###### Build Instructions
 
         1. Import ThisWorkbook.cls and randomWheel.bas into theAmazingSpinningWheel.xlsx
-        2. If you wish to archive your results set archiveDir in randomWheel.bas to the directory you wish to save ArchiveResults.csv
-        3. Right click on the wheel and assign macro to either archiveruns or spinWheel
-        4. Save file as theAmazingSpinningWheel.xlsm
+        2. If you wish to archive your results: set archiveDir in randomWheel.bas to the directory you wish to save ArchiveResults.csv
+        3. Right click on the wheel and assign macro to either 'archiveruns' or 'spinWheel'
+        4. Save file as theAmazingSpinningWheel.xlsm and close file.
         
 ###### For best results run the following via command prompt or through a shortcut:
 
