@@ -26,7 +26,7 @@ Sub archiveruns()
     
     '----------------------
     
-    If archiveDir <> "" Then
+        If archiveDir <> "" and archiveDir <> "C:\path\to\directory\" Then
         
         archiveValue = True
         Call spinwheel
@@ -34,6 +34,7 @@ Sub archiveruns()
     Else
     
         MsgBox "Please set the directory where you wish to store ArchiveResults.csv"
+            
     End If
     
     
