@@ -1,5 +1,5 @@
 # Random-Number-3D-Wheel-in-Excel :green_book:
-This project demonstrates the creative use of VBA to animate 3D shapes in Excel. I created a 3D wheel with 12 segments, labeled 1 through 12. The wheel spins randomly and stops at a selected number, which flashes green to indicate the winner. The duration and intensity of the spinning are determined by a random number generator, adding suspense and excitement to the animation. This project showcases my skills and innovation in using Excel beyond its conventional functions.
+This project demonstrates the creative use of VBA to animate 3D shapes in Excel. I created a 3D wheel with 12 segments; the wheel spins and slows down to randomly stop at a selected segment, which flashes green to indicate the winner. The spinning duration varies each spin, adding suspense and excitement to the animation. This project showcases my skills and creativity in using Excel beyond its conventional functions.
 
 ![theamazingspinningwheel](https://user-images.githubusercontent.com/105183376/172466157-d9ce2d85-3eac-4029-b77e-136451a1179c.png)
 
