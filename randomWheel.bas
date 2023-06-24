@@ -77,7 +77,7 @@ End With
 
     '---DEFINE DEFAULT WB & WS---
     
-    Set WheelWB = Workbooks("theAmazingSpinningWheel")
+    Set WheelWB = Workbooks("theAmazingSpinningWheel.xlsm")
     Set WheelWS = WheelWB.Worksheets("Sheet1")
     
     '----------------------
